@@ -12,4 +12,4 @@ At the end of the course, I took the official Google Tensorflow developer exam a
 </p>
 
 <h2>My Tensorflow Developer Certificate</h2>
-<img src="Tensorflow_Certificate.png" alt="Tensorflow developer certificate"/>
+<img src="Tensorflow_Developer_Certificate.png" alt="Tensorflow developer certificate"/>
